@@ -15,8 +15,8 @@ import time
 # -------------------
 def main():
   # main page
-st.set_page_config(layout="wide")
-st.title("Deepfake Detector:")
+    st.set_page_config(layout="wide")
+    st.title("Deepfake Detector:")
 
 
 # function to load and cache pretrained model
